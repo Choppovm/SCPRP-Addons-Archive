@@ -5,8 +5,6 @@
 --[[
 Interaction Logs: Discord Webhook Integration | Developed for ARIV
 
-This script listens for chat messages and sends them to a Discord webhook via HTTP POST.
-
 Note - this is only for CUSTOM INTERACTIONS. Regular ones (e.g. doors) will not work; only
 the custom interactions made with F3X (from that one props preset, idk which one) will.
 
